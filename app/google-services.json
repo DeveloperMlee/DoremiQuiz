@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363337451535",
+    "project_id": "doremiquiz",
+    "storage_bucket": "doremiquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363337451535:android:b575c5da1e4ed6047a7b7a",
+        "android_client_info": {
+          "package_name": "com.example.doremiquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363337451535-fmv75i9o8mv7pr04il3noqg7uc3u7a0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV-vycn3yF2HhN1kMAWDZjgU4vHSwVxD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363337451535-fmv75i9o8mv7pr04il3noqg7uc3u7a0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
